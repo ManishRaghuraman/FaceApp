@@ -48,15 +48,6 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MCarlomagno/assets/master/face-recog-auth-process.gif" alt="Face recognition auth"/>
-</div>
-
-## Licence
-
-https://opensource.org/licenses/BSD-3-Clause
-
 
 
 
